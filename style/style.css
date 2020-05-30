@@ -1,0 +1,82 @@
+body {
+    background-color: gray;
+}
+
+
+header {
+    background-color: #0f7dc2;
+    height: 60px;
+    width: auto;
+    padding-left: 35px;
+    padding-right: 10px;
+}
+
+header .iconSize {
+    width: 24px;
+    height: 24px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+header .logo {
+    width: auto;
+    height: 60px;
+}
+
+article {
+    background-color: white;
+}
+
+footer {
+    background-color: white;
+}
+
+article .block {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.block span {
+    margin-left: 10px;
+}
+
+article .icon {
+    width: 48px;
+    height: 48px;
+}
+article .popular {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+footer .logo {
+    height: 45px;
+    width: auto;
+    padding-left: 100px;
+}
+
+footer .line {
+    background-color: gray;
+    height: 200px;
+    width: 1px;
+    margin-left: 48px;
+    margin-right: 48px;
+}
+
+footer .top-text {
+    margin-right: 20px;
+}
+
+footer .icon {
+    margin-right: 20px;
+    width: 36px;
+    height: 36px;
+}
+
+footer .line-2 {
+    margin-right: 20px;
+    margin-left: 20px;
+    width: 1px;
+    height: 10px;
+    background-color: gray;
+}
